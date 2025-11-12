@@ -1,4 +1,4 @@
-package lec003;
+package lect003;
 
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;
